@@ -37,7 +37,7 @@ class studentAdmin(admin.ModelAdmin):
 Include your code here
 
 ## OUTPUT
-![model](webexp-2.png)
+![model](webexp2.png)
 
 Include the screenshot of your admin page.
 
