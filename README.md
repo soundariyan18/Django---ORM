@@ -47,4 +47,5 @@ Include your code here
 Include the screenshot of your admin page.
 
 
-## RESULT
+## RESULT:
+the orm web server of cloning is executed successfully.
